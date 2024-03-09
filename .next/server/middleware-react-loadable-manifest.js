@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index.tsx -> ../views/landing/homePage/index":{"id":"index.tsx -> ../views/landing/homePage/index","files":["static/chunks/src_views_landing_homePage_index_tsx.js"]}}
